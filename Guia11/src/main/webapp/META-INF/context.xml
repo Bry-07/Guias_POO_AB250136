@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Context>
+    <Resource name="jdbc/mariadb" auth="Container" type="javax.sql.DataSource"
+                username="root" password="" driverClassName="org.mariadb.jdbc.Driver"
+                url="jdbc:mariadb://localhost/personabdd"/>
+</Context>
